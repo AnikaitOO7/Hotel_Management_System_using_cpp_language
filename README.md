@@ -13,8 +13,8 @@ to dispay the main menu
         
         int check(int);			//to check room status
         
-        void modify(int);		//to modify the record
+        void modify(int);		        //to modify the record
         
-        void delete_rec(int);		        //to delete the record
+        void delete_rec(int);		//to delete the record
         
         void bill(int);                 //for the bill of a record
