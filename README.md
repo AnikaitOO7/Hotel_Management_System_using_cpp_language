@@ -3,9 +3,9 @@ Cpp program to built a hotel management system
 
 to dispay the main menu
 
-        void add();			//to book a room
+        void add();			        //to book a room
         
-        void display(); 		//to display the customer record
+        void display(); 		        //to display the customer record
         
         void rooms();			//to display alloted rooms
         
@@ -17,4 +17,4 @@ to dispay the main menu
         
         void delete_rec(int);		//to delete the record
         
-        void bill(int);                 //for the bill of a record
+        void bill(int);                         //for the bill of a record
