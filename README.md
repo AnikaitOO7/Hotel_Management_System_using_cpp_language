@@ -17,4 +17,4 @@ to dispay the main menu
         
         void delete_rec(int);		//to delete the record
         
-        void bill(int);                   //for the bill of a record
+        void bill(int);                     //for the bill of a record
