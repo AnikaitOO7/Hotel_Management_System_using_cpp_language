@@ -3,7 +3,7 @@ Cpp program to built a hotel management system
 
 to dispay the main menu
 
-        void add();			//to book a room
+        $ void add();			//to book a room
         
         void display(); 		//to display the customer record
         
